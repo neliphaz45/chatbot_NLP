@@ -1,0 +1,4 @@
+corpus
+stopwords
+stem
+PorterStemmer
